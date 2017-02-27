@@ -31,8 +31,8 @@
 
 
 - **Evernote** — 印象笔记
-- **Chrome** — Google浏览器
-- - **Codelf-Best GitHub Stars organizer** — GitHub管理
+- **Chrome** — Google浏览器。下级为Chrome插件
+  - **Codelf-Best GitHub Stars organizer** — GitHub管理
   - **Postman** — HTTP请求测试插件
 - **Paintbrush** — 画图工具
 - **VLC** — 播放器
