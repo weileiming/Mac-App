@@ -24,6 +24,7 @@
 - **Sublime Text** — 代码编辑器
 - **QuartzCode** — iOS动画编程工具
 - **PaintCode** — iOS矢量绘图编程软件
+- **Reveal** — 调试iOS应用，显示其UI
 
 ### 免费
 
