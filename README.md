@@ -1,6 +1,8 @@
 # Mac-App
 
-常用的收费软件下载[地址](http://www.waitsun.com/)
+收费软件有一些[淘宝](https://www.taobao.com/)上很便宜，可以选择购买。
+
+常用的收费软件破解下载[地址](http://www.waitsun.com/)。
 
 ### 收费
 
