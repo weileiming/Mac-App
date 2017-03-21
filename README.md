@@ -32,8 +32,7 @@
 ### 免费
 
 - **ShadowsocksX-NG** — 科学上网。[shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
-
-
+- **iTerm2** — 终端工具
 - **Evernote** — 印象笔记
 - **Chrome** — Google浏览器。下级为Chrome插件
   - **Codelf-Best GitHub Stars organizer** — GitHub管理
