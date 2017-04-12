@@ -55,3 +55,4 @@
 - **Spark** — 邮件客户端
 - **Mark Man** — 测量标注工具
 - **PicGIF Lite** — 制作GIF图片
+- **GIPHY Capture** — 屏幕录取制作GIF图片
