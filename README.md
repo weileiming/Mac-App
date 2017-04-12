@@ -54,3 +54,4 @@
 - **iPic** — 图床神器
 - **Spark** — 邮件客户端
 - **Mark Man** — 测量标注工具
+- **PicGIF Lite** — 制作GIF图片
