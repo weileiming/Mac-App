@@ -56,3 +56,4 @@
 - **Mark Man** — 测量标注工具
 - **PicGIF Lite** — 制作GIF图片
 - **GIPHY Capture** — 屏幕录取制作GIF图片
+- **ImageOptim** — 图片压缩工具。[ImageOptim/ImageOptim](ImageOptim/ImageOptim)
