@@ -58,3 +58,4 @@
 - **GIPHY Capture** — 屏幕录取制作GIF图片
 - **ImageOptim** — 图片压缩工具。[ImageOptim/ImageOptim](ImageOptim/ImageOptim)
 - **SourceTree** — 支持GitHub和Bitbucket的Git客户端工具
+- **Gemini** — 重复文件搜索清理工具
