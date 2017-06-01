@@ -60,4 +60,5 @@
 - **SourceTree** — 支持GitHub和Bitbucket的Git客户端工具
 - **Gemini** — 重复文件搜索清理工具
 - **GitBook Editor** — GitBook官方编辑器
+- **Deco** — React Native IDE
 
