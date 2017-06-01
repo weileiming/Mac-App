@@ -45,6 +45,7 @@
 - **CheatSheet** — 查阅快捷键(一直按住cmd)
 - **skitch** — 圈点，图片标识涂鸦
 - **Atom** — github出品编辑器
+  - **Nuclide** — React Native
 - **MacDown** — Markdown文本编辑器
 - **Typora** — Markdown文本编辑器
 - **Bear** — Markdown文本编辑器
