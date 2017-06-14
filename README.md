@@ -29,6 +29,7 @@
 - **Reveal** — 调试iOS应用，显示其UI
 - **AppCode** — 替代Xcode的一款IDE
 - **Reeder** — RSS阅读器
+- **Ulysses 3** — Markdown文本编辑器
 
 ### 免费
 
