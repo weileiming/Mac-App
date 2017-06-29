@@ -33,7 +33,7 @@
 
 ## 免费
 
-- **ApplicationLoader** — iOS ipa文件上传
+- **Application Loader** — iOS ipa文件上传
 - **Atom** — github出品编辑器
   - **Nuclide** — React Native
 - **Bear** — Markdown文本编辑器
