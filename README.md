@@ -40,6 +40,8 @@
 - **CheatSheet** — 查阅快捷键(一直按住cmd)
 - **Chrome** — Google浏览器。下级为Chrome插件
   - **Codelf-Best GitHub Stars organizer** — GitHub管理
+  - **JSONView** — 格式化JSON数据
+  - **JSON Viewer** — 格式化JSON数据，推荐
   - **Postman** — HTTP请求测试插件
 - **Deco** — React Native IDE
 - **Evernote** — 印象笔记
