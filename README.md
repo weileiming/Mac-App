@@ -45,6 +45,7 @@
   - **Postman** — HTTP请求测试插件
 - **Deco** — React Native IDE
 - **Evernote** — 印象笔记
+- **Expo XDE** — React Native开发环境，配合iOS和Android上架的空应用容器使用
 - **fliqlo** — 屏保
 - **Gemini** — 重复文件搜索清理工具
 - **GIPHY Capture** — 屏幕录取制作GIF图片
