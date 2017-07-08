@@ -16,6 +16,7 @@
 - **CornerStone** — SVN管理工具
 - **Dash** — API文档管理工具
 - **Downie** — 在线视频下载工具
+- **Hopper** — 二进制反编译工具
 - **iStat Menus** — 系统监控工具
 - **MindNode** — 思维导图工具
 - **Moom** — 窗口大小增强控制工具
