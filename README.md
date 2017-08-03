@@ -45,6 +45,7 @@
   - **JSON Viewer** — 格式化JSON数据，推荐
   - **Postman** — HTTP请求测试插件
 - **Deco** — React Native IDE
+- **Dr. Cleaner** — 系统清理软件
 - **Evernote** — 印象笔记
 - **Expo XDE** — React Native开发环境，配合iOS和Android上架的空应用容器使用
 - **fliqlo** — 屏保
