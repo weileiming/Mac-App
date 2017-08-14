@@ -20,6 +20,7 @@
 - **iStat Menus** — 系统监控工具
 - **MindNode** — 思维导图工具
 - **Moom** — 窗口大小增强控制工具
+- **Navicat Premium** — Mac上最强大的数据库客户端
 - **PaintCode** — iOS矢量绘图编程软件
 - **Paragon NTFS for Mac** — NTFS 分区驱动，能够读写 NTFS 分区
 - **Paste** — 剪切板记录增强工具
