@@ -26,6 +26,7 @@
 - **Paste** — 剪切板记录增强工具
 - **Paw HTTP Client** — HTTP请求测试工具
 - **PopClip** — 增强型复制粘贴工具
+- **PyCharm** — JetBrains出品的Python IDE
 - **QuartzCode** — iOS动画编程工具
 - **Reeder** — RSS阅读器
 - **Reveal** — 调试iOS应用，显示其UI
