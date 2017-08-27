@@ -61,6 +61,7 @@
 - **iTerm2** — 终端工具
 - **MacDown** — Markdown文本编辑器
 - **Mark Man** — 测量标注工具
+- **Nox** — 夜神安卓模拟器
 - **Paintbrush** — 画图工具
 - **PicGIF Lite** — 制作GIF图片
 - **ShadowsocksX-NG** — 科学上网。[shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
