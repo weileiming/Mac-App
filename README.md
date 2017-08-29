@@ -32,6 +32,7 @@
 - **Reveal** — 调试iOS应用，显示其UI
 - **Sketch** — 矢量绘图工具
 - **Sublime Text** — 代码编辑器
+- **TotalFinder** — Finder增强工具
 - **Ulysses 3** — Markdown文本编辑器
 
 ## 免费
