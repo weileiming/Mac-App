@@ -49,6 +49,7 @@
   - **Postman** — HTTP请求测试插件
   - **Wappalyzer** — 检测访问网站上使用的技术
   - **WhatRuns** — 检测访问网站上使用的技术，推荐
+- **Day One** — 日记软件
 - **Deco** — React Native IDE
 - **Dr. Cleaner** — 系统清理软件
 - **Evernote** — 印象笔记
