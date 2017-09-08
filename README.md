@@ -18,6 +18,7 @@
 - **Downie** — 在线视频下载工具
 - **Hopper** — 二进制反编译工具
 - **iStat Menus** — 系统监控工具
+- **Linguist** — 语言翻译
 - **MindNode** — 思维导图工具
 - **Moom** — 窗口大小增强控制工具
 - **Navicat Premium** — Mac上最强大的数据库客户端
@@ -60,6 +61,7 @@
 - **GitBook Editor** — GitBook官方编辑器
 - **Gitter** — GitHub存储库的开发人员和用户的即时通讯聊天室系统
 - **ImageOptim** — 图片压缩工具。[ImageOptim/ImageOptim](ImageOptim/ImageOptim)
+- **iOS App Signer** — iOS App重签名工具。[DanTheMan827/ios-app-signer](DanTheMan827/ios-app-signer)
 - **iOS Images Extractor** — iOS提取图片资源文件。[devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor)
 - **iPic** — 图床神器
 - **iTerm2** — 终端工具
