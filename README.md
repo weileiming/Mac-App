@@ -77,6 +77,7 @@
 - **snip** — 截图工具
 - **SourceTree** — 支持GitHub和Bitbucket的Git客户端工具
 - **Spark** — 邮件客户端
+- **Spectacle** — 窗口管理快捷键程序
 - **Tickeys** — 键盘模拟声音(快捷键:qaz123)
 - **Typora** — Markdown文本编辑器
 - **VLC** — 播放器
