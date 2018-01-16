@@ -82,5 +82,6 @@
 - **Tickeys** — 键盘模拟声音(快捷键:qaz123)
 - **Typora** — Markdown文本编辑器
 - **VLC** — 播放器
+- **XMind** — 思维导图
 - **Zeplin** — 前端与设计协同工作专用工具
 
