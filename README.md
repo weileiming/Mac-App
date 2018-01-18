@@ -83,5 +83,6 @@
 - **Typora** — Markdown文本编辑器
 - **VLC** — 播放器
 - **XMind** — 思维导图
+- **YoMail** — 邮件客户端
 - **Zeplin** — 前端与设计协同工作专用工具
 
