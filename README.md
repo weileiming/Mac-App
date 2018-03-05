@@ -66,6 +66,7 @@
 - **iOS Images Extractor** — iOS提取图片资源文件。[devcxm/iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor)
 - **iPic** — 图床神器
 - **iTerm2** — 终端工具
+- **Jayson** — JSON编辑器
 - **Jupyter** — 交互式笔记本，可以插入代码执行，显示结果，并把这些内容保存成记事本。
 - **MacDown** — Markdown文本编辑器
 - **Mark Man** — 测量标注工具
