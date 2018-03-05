@@ -81,6 +81,7 @@
 - **Spark** — 邮件客户端
 - **Spectacle** — 窗口管理快捷键程序
 - **Tickeys** — 键盘模拟声音(快捷键:qaz123)
+- **Trello** — 任务管理软件
 - **Typora** — Markdown文本编辑器
 - **VLC** — 播放器
 - **XMind** — 思维导图
