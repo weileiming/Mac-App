@@ -10,6 +10,7 @@
 - **AppCode** — 替代Xcode的一款IDE
 - **aText** — 文字快速补全增强工具
 - **Bartender** — 菜单栏应用图标管理工具
+- **BBEdit** — 文本编辑工具
 - **BetterZip** — 解压缩工具
 - **Charles** — HTTP监视器和抓包工具
 - **CleanMyMac** — Mac实用系统清理工具
@@ -18,6 +19,7 @@
 - **Downie** — 在线视频下载工具
 - **Hopper** — 二进制反编译工具
 - **iStat Menus** — 系统监控工具
+- **Kaleidoscope** — Diff工具
 - **Linguist** — 语言翻译
 - **MindNode** — 思维导图工具
 - **Moom** — 窗口大小增强控制工具
@@ -49,6 +51,8 @@
   - **Codelf-Best GitHub Stars organizer** — GitHub管理
   - **JSONView** — 格式化JSON数据
   - **JSON Viewer** — 格式化JSON数据，推荐
+  - **Octotree** — GitHub可视化代码树
+  - **Pocket** — 离线阅读服务
   - **Wappalyzer** — 检测访问网站上使用的技术
   - **WhatRuns** — 检测访问网站上使用的技术，推荐
 - **Day One** — 日记软件
