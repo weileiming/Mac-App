@@ -46,6 +46,7 @@
 - **Atom** — github出品编辑器
   - **Nuclide** — React Native
 - **Bear** — Markdown文本编辑器
+- **Cacher** — 代码片段管理
 - **CheatSheet** — 查阅快捷键(一直按住cmd)
 - **Chrome** — Google浏览器。下级为Chrome插件
   - **Codelf-Best GitHub Stars organizer** — GitHub管理
