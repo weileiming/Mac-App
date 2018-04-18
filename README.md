@@ -80,6 +80,7 @@
 - **Paintbrush** — 画图工具
 - **PicGIF Lite** — 制作GIF图片
 - **Postman** — HTTP请求测试工具
+- **PxCook** — 自动标注工具
 - **ShadowsocksX-NG** — 科学上网。[shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
 - **skitch** — 圈点，图片标识涂鸦
 - **snip** — 截图工具
