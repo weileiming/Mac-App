@@ -50,6 +50,7 @@
 - **Cacher** — 代码片段管理
 - **CheatSheet** — 查阅快捷键(一直按住cmd)
 - **Chrome** — Google浏览器。下级为Chrome插件
+  - **BaiduExporter** — 把网盘的下载地址导出到aria2/aria2-rpc，支持YAAW。[acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter)
   - **Codelf-Best GitHub Stars organizer** — GitHub管理
   - **JSONView** — 格式化JSON数据
   - **JSON Viewer** — 格式化JSON数据，推荐
