@@ -29,6 +29,7 @@
 - **Paragon NTFS for Mac** — NTFS 分区驱动，能够读写 NTFS 分区
 - **Paste** — 剪切板记录增强工具
 - **Paw HTTP Client** — HTTP请求测试工具
+- **PDF Expert** — PDF阅读、编辑、批注工具
 - **PopClip** — 增强型复制粘贴工具
 - **PyCharm** — JetBrains出品的Python IDE
 - **QuartzCode** — iOS动画编程工具
