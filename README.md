@@ -17,6 +17,7 @@
 - **CornerStone** — SVN管理工具
 - **Dash** — API文档管理工具
 - **Downie** — 在线视频下载工具
+- **Folx** — 下载工具
 - **Hopper** — 二进制反编译工具
 - **iStat Menus** — 系统监控工具
 - **Kaleidoscope** — Diff工具
