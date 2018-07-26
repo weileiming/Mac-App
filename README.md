@@ -19,6 +19,7 @@
 - **Downie** — 在线视频下载工具
 - **Folx** — 下载工具
 - **Hopper** — 二进制反编译工具
+- **Icons** — 图标素材
 - **iStat Menus** — 系统监控工具
 - **Kaleidoscope** — Diff工具
 - **Linguist** — 语言翻译
