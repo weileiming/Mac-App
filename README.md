@@ -67,6 +67,7 @@
 - **Evernote** — 印象笔记
 - **Expo XDE** — React Native开发环境，配合iOS和Android上架的空应用容器使用
 - **fliqlo** — 屏保
+- **Fork** — Git客户端
 - **Gemini** — 重复文件搜索清理工具
 - **GIPHY Capture** — 屏幕录取制作GIF图片
 - **GitBook Editor** — GitBook官方编辑器
