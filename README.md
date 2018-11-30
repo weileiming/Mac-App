@@ -14,29 +14,39 @@
 - **BetterZip** — 解压缩工具
 - **Charles** — HTTP监视器和抓包工具
 - **CleanMyMac** — Mac实用系统清理工具
+- **Cisdem PDF Converter OCR**  — PDF格式转换应用
 - **CornerStone** — SVN管理工具
+- **Cyberduck** — FTP/SFTP客户端
 - **Dash** — API文档管理工具
 - **Downie** — 在线视频下载工具
+- **Fantastical 2** — 日历工具
 - **Folx** — 下载工具
+- **Hands Off!** — 防火墙软件
 - **Hopper** — 二进制反编译工具
 - **Icons** — 图标素材
 - **iStat Menus** — 系统监控工具
 - **Kaleidoscope** — Diff工具
+- **KeyCue** — 快捷键提醒查询工具
+- **Lepton** — GitHub Gist管理工具
 - **Linguist** — 语言翻译
+- **MathType** — 数学公式编辑器
 - **MindNode** — 思维导图工具
 - **Moom** — 窗口大小增强控制工具
 - **Navicat Premium** — Mac上最强大的数据库客户端
 - **OmniGraffle** — 绘图软件
+- **Org Chart Designer** — 网络图拖放设计软件
 - **PaintCode** — iOS矢量绘图编程软件
 - **Paragon NTFS for Mac** — NTFS 分区驱动，能够读写 NTFS 分区
 - **Paste** — 剪切板记录增强工具
 - **Paw HTTP Client** — HTTP请求测试工具
+- **Perfino** — JVM分析工具
 - **PDF Expert** — PDF阅读、编辑、批注工具
 - **PopClip** — 增强型复制粘贴工具
 - **PyCharm** — JetBrains出品的Python IDE
 - **QuartzCode** — iOS动画编程工具
 - **Reeder** — RSS阅读器
 - **Reveal** — 调试iOS应用，显示其UI
+- **ScreenFlow** — 屏幕录像工具
 - **Sketch** — 矢量绘图工具
 - **Sublime Text** — 代码编辑器
 - **TotalFinder** — Finder增强工具
@@ -68,6 +78,7 @@
 - **Evernote** — 印象笔记
 - **Expo XDE** — React Native开发环境，配合iOS和Android上架的空应用容器使用
 - **fliqlo** — 屏保
+- **FileZilla** — FTP/SFTP客户端
 - **Fork** — Git客户端
 - **Gemini** — 重复文件搜索清理工具
 - **GIPHY Capture** — 屏幕录取制作GIF图片
