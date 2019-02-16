@@ -77,6 +77,7 @@
 - **Dr. Cleaner** — 系统清理软件
 - **Evernote** — 印象笔记
 - **Expo XDE** — React Native开发环境，配合iOS和Android上架的空应用容器使用
+- **[eZip](https://ezip.awehunt.com/)** — 压缩软件
 - **fliqlo** — 屏保
 - **FileZilla** — FTP/SFTP客户端
 - **Fork** — Git客户端
