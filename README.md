@@ -94,6 +94,7 @@
 - **Jupyter** — 交互式笔记本，可以插入代码执行，显示结果，并把这些内容保存成记事本。
 - **MacDown** — Markdown文本编辑器
 - **Mark Man** — 测量标注工具
+- **Motrix** — 全能下载工具
 - **Nox** — 夜神安卓模拟器
 - **Paintbrush** — 画图工具
 - **PicGIF Lite** — 制作GIF图片
