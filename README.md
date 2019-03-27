@@ -75,6 +75,7 @@
 - **Day One** — 日记软件
 - **Deco** — React Native IDE
 - **Dr. Cleaner** — 系统清理软件
+- **Dukto** — 局域网传输
 - **Evernote** — 印象笔记
 - **Expo XDE** — React Native开发环境，配合iOS和Android上架的空应用容器使用
 - **[eZip](https://ezip.awehunt.com/)** — 压缩软件
